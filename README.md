@@ -1,3 +1,4 @@
+![logo](https://github.com/ranjanasahu007/ranjanasahu007/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ranjana Sahu</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
@@ -19,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ranjanasahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjanasahu" height="30" width="40" /></a>
 <a href="https://twitter.com/ranjanasahu18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjanasahu18" height="30" width="40" /></a>
 <a href="https://instagram.com/iranjanasahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iranjanasahu" height="30" width="40" /></a>
 </p>
