@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranjanasahu007
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ..Python.
+- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..ranjanasahussb007@gmail.com.
 
