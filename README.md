@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjana Sahu</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-<img align="right" alt="android" width="200" src="![image](https://github.com/ranjanasahu007/ranjanasahu007/assets/59441454/542d56dd-99cd-4007-93ea-66f5bd14d0cd)
-">
+<!--<img align="right" alt="android" width="400" src="[![image](https://github.com/ranjanasahu007/ranjanasahu007/assets/59441454/4c23f7d0-85db-4593-86e0-93681bf434df)](https://blog.solguruz.com/wp-content/uploads/2023/11/Top-19-Android-App-Development-Trends.png)">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanasahu007&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanasahu007" /> </p>
 
@@ -16,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NMeElaYJz_T9U0i_ziLEIFz35xzUDEzw/view?usp=drivesdk](https://drive.google.com/file/d/1NMeElaYJz_T9U0i_ziLEIFz35xzUDEzw/view?usp=drivesdk)
 
-- ⚡ Fun fact **i have a great sense of humour.**
+- ⚡ Fun fact **I have a great sense of humour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
