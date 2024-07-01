@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ranjana Sahu</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-<!--<img align="right" alt="android" width="400" src="[![image](https://github.com/ranjanasahu007/ranjanasahu007/assets/59441454/4c23f7d0-85db-4593-86e0-93681bf434df)](https://blog.solguruz.com/wp-content/uploads/2023/11/Top-19-Android-App-Development-Trends.png)">-->
+<img align="right" alt="android" width="200" src="https://github.com/ranjanasahu007/ranjanasahu007/blob/main/mygif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanasahu007&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanasahu007" /> </p>
 
