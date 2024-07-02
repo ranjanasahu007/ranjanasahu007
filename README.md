@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranjanasahussb007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NMeElaYJz_T9U0i_ziLEIFz35xzUDEzw/view?usp=drivesdk](https://drive.google.com/file/d/1NMeElaYJz_T9U0i_ziLEIFz35xzUDEzw/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1zJzwOQ3x5kk4ZhgOdM3GFmeji0QQl0Gd/view?usp=sharing
 
 - ⚡ Fun fact **I have a great sense of humour.**
 
